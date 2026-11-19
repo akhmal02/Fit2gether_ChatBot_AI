@@ -1,0 +1,26 @@
+# Environment and API keys
+app.env
+.env
+*.env
+!.env.example
+!app.env.example
+
+# Python virtual environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# SQLite runtime database
+instance/*.db
+Fit2gether/instance/*.db
+*.db
+*.sqlite3
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
