@@ -139,7 +139,7 @@ pip install -r requirements.txt
    ```
 2. Open `Fit2gether/app.env` and paste your OpenAI API key:
    ```env
-   OPENAI_API_KEY=sk-proj-YourActualOpenAIKeyHere
+   OPENAI_API_KEY=your_openai_api_key_here
    ```
 
 ### 6. Run the Application
